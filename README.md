@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-Hi! My name is **Beibarys**, and I am a **17-year-old beginner Front-End Developer** from Kazakhstan. I'm passionate about building engaging user interfaces and constantly learning new technologies in web development. 
+Hi! My name is **Beybarys**, and I am a **17-year-old beginner Front-End Developer** from Kazakhstan.
 
 
 # 💻 Tech Stack:
