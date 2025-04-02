@@ -17,8 +17,9 @@
 <img src="https://mobx.js.org/img/mobx.png" height="50"/>&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHj4UwTW4ANSlNjzQOiiOqfDa6kal9RpF0A&s" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50"/>&nbsp;
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" height="50"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/160464953?s=200&v=4" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50"/>&nbsp;
+
 
 # 📊 GitHub Stats:
 
