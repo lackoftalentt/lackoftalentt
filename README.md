@@ -15,9 +15,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50"/>&nbsp;
 <img src="https://mobx.js.org/img/mobx.png" height="50"/>&nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHj4UwTW4ANSlNjzQOiiOqfDa6kal9RpF0A&s" height="50"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/160464953?s=200&v=4" height="80"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50"/>&nbsp;
-<img src="https://avatars.githubusercontent.com/u/160464953?s=200&v=4" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50"/>&nbsp;
 
 
