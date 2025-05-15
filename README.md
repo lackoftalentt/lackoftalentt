@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello, I'm <strong>Beybarys</strong></h1>
 
-<h3 align="center">I'm <strong>17-year-old senior Front-End Developer</strong> from Kazakhstan.</h3>
+<h3 align="center">I'm <strong>17-year-old Front-End Developer</strong> from Kazakhstan.</h3>
 
 ---
 
