@@ -2,7 +2,7 @@
 
 <h3 align="center"><strong>Front-End Developer</strong> from Kazakhstan.</h3>
 
-<p align="center">
+<p align="center" width="1030">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lackoftalentt/lackoftalentt/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lackoftalentt/lackoftalentt/output/pacman-contribution-graph.svg">
