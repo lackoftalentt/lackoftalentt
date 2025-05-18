@@ -34,11 +34,8 @@
 </p>
 
 <h3 align="center">📊 GitHub Stats:</h3>
-
-<p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=lackoftalentt&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" />     
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lackoftalentt&theme=shadow_blue&hide_border=false" />
-        <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lackoftalentt&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-        </p>
-</p>
+<a href="#">
+  <p align="left"> 
+    <img src="https://nirzak-streak-stats.vercel.app/?user=lackoftalentt&card_width=1030" alt="lackoftalentt" />
+  </p>
+</a>
